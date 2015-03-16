@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://harvardhkustvlc.googlecode.com/svn"
+   name=""
+   revision="4"
+   last-author="zhangtian1000@gmail.com"
+   url="https://harvardhkustvlc.googlecode.com/svn/trunk/harvardhkustvlc/Flashkey/bin/res/crunch/drawable-xhdpi"
+   committed-rev="4"
+   kind="dir"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name="ic_action_new.png"
+   checksum="df2e79841348bf57bc6fb6447258365e"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-23T20:49:34.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"
+   prop-time="2014-09-30T02:08:33.000000Z"/>
+<entry
+   name="ic_launcher.png"
+   checksum="d801cbebdc1322d692f58bfdcf992434"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-23T20:49:34.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"
+   prop-time="2014-09-30T02:08:32.000000Z"/>
+</wc-entries>

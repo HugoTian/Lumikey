@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://harvardhkustvlc.googlecode.com/svn"
+   name=""
+   revision="4"
+   last-author="zhangtian1000@gmail.com"
+   url="https://harvardhkustvlc.googlecode.com/svn/trunk/harvardhkustvlc/Flashkey/res/xml"
+   committed-rev="4"
+   kind="dir"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name="preferences.xml"
+   checksum="b14e7e09ab297704300eff96707aada4"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-23T18:28:29.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name="widget_info.xml"
+   checksum="2ee3a82271ee33f16d5e7f766767b950"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-17T00:21:39.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+</wc-entries>

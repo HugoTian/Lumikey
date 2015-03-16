@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://harvardhkustvlc.googlecode.com/svn"
+   name=""
+   revision="3"
+   last-author="zhangtian1000@gmail.com"
+   uuid="e19249c7-7da8-d604-877b-ab99b2f3d363"
+   url="https://harvardhkustvlc.googlecode.com/svn/trunk/harvardhkustvlc/Flashkey"
+   committed-rev="3"
+   kind="dir"
+   committed-date="2014-09-30T02:08:12.469433Z"/>
+<entry
+   name=".classpath"
+   revision="4"
+   checksum="6c094a1e72258481d21d2ef20bc0880d"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-08T00:40:18.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name=".project"
+   revision="4"
+   checksum="7335ecd9f68578dfcc6e484ee054b131"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-08T00:40:17.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name=".settings"
+   kind="dir"/>
+<entry
+   name="AndroidManifest.xml"
+   revision="4"
+   checksum="ed3e4ce1412ad8ea918b5a6740486d41"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-23T21:32:09.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name="assets"
+   kind="dir"/>
+<entry
+   name="bin"
+   kind="dir"/>
+<entry
+   name="gen"
+   kind="dir"/>
+<entry
+   name="ic_launcher-web.png"
+   revision="4"
+   checksum="03162f4ee138bcbae36f78b1d25dbd5b"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-08T00:40:18.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"
+   prop-time="2014-09-30T02:08:31.000000Z"/>
+<entry
+   name="libs"
+   kind="dir"/>
+<entry
+   name="proguard-project.txt"
+   revision="4"
+   checksum="18bfe77c342b4698f1cef19cf8d918e2"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-08T00:40:17.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name="project.properties"
+   revision="4"
+   checksum="6bc29827a20f0391406586601017da3b"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-08T00:40:18.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name="res"
+   kind="dir"/>
+<entry
+   name="src"
+   kind="dir"/>
+</wc-entries>

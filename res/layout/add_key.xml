@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:scrollbarStyle="outsideOverlay" >
+
+ 	<LinearLayout
+   	    android:id="@+id/add_event_dialog_layout"
+   	    android:layout_width="match_parent"
+   	    android:layout_height="wrap_content"
+   	    android:orientation="vertical" >
+
+   	    <TextView
+   	        android:id="@+id/addKeyName"
+   	        android:layout_width="wrap_content"
+   	        android:layout_height="wrap_content"
+   	        android:padding="8dp"
+   	        android:text="Key Name"
+   	        android:textColor="#000"
+   	        android:textSize="18sp" />
+
+   	    <com.example.flashkey.ClearableEditText
+   	        android:id="@+id/key_name"
+   	        android:layout_width="match_parent"
+   	        android:layout_height="wrap_content"
+   	        android:padding="8dp"
+   	        android:textColor="#000"
+   	        android:textSize="18sp" />
+
+   	    
+   	    <TextView
+   	        android:id="@+id/addPassword"
+   	        android:layout_width="wrap_content"
+   	        android:layout_height="wrap_content"
+   	        android:padding="8dp"
+   	        android:text="Password"
+   	        android:textColor="#000"
+   	        android:textSize="18sp" />
+
+   	    <com.example.flashkey.ClearableEditText
+   	        android:id="@+id/key_password"
+   	        android:layout_width="match_parent"
+   	        android:layout_height="wrap_content"
+   	        android:inputType="textPassword"
+   	        android:padding="8dp"
+   	        android:textColor="#000"
+   	        android:textSize="18sp" />
+   	    
+   	    
+   	    <TextView
+   	        android:id="@+id/reFillPassword"
+   	        android:layout_width="wrap_content"
+   	        android:layout_height="wrap_content"
+   	        android:padding="8dp"
+   	        android:text="Reinput Password"
+   	        android:textColor="#000"
+   	        android:textSize="18sp" />
+
+   	    <com.example.flashkey.ClearableEditText
+   	        android:id="@+id/refill_password"
+   	        android:layout_width="match_parent"
+   	        android:layout_height="wrap_content"
+   	        android:inputType="textPassword"
+   	        android:padding="8dp"
+   	        android:textColor="#000"
+   	        android:textSize="18sp" />
+   	    
+   	      <TextView
+   	        android:layout_width="wrap_content"
+   	        android:layout_height="wrap_content"
+   	        android:padding="8dp"
+   	        android:text="Key Type"
+   	        android:textColor="#000"
+   	        android:textSize="18sp" />
+   	    
+   	    <Spinner
+		    android:id="@+id/keyType"
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    android:padding="8dp"
+   	        android:textColor="#000"
+   	        android:textSize="18sp"
+   	        android:entries="@array/key_type"
+   	        android:prompt="@string/country_prompt"
+		    android:spinnerMode="dropdown" />
+   	    
+   	    <TextView
+   	        android:layout_width="fill_parent"
+   	        android:layout_height="50dp" />
+   	    
+   	
+
+   	</LinearLayout>
+
+</ScrollView>

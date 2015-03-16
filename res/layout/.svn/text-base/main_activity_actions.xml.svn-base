@@ -1,0 +1,37 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center_vertical" >
+    
+    <TextView
+        android:id="@+id/app_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:gravity="center_vertical"
+        android:text="Flash Key"
+        android:textColor="@color/gray"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+	<ImageView
+	    android:id="@+id/add_new"
+	    android:layout_width="80dp"
+	    android:layout_height="30dp"
+	    android:layout_alignBottom="@+id/app_text"
+	    android:layout_toLeftOf="@+id/app_setting"
+	    android:clickable="true"
+	    android:onClick="onClick"
+	    android:src="@drawable/ic_action_new"
+	    android:textColor="#000000" />
+
+	<Spinner
+	    android:id="@+id/app_setting"
+	    android:layout_width="30dp"
+	    android:layout_height="30dp"
+	    android:layout_alignParentRight="true"
+	    android:layout_alignTop="@+id/add_new"
+	    android:background="@drawable/ic_action_overflow"
+	    android:textColor="#000000" />
+
+</RelativeLayout>

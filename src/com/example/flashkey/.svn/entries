@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://harvardhkustvlc.googlecode.com/svn"
+   name=""
+   revision="4"
+   last-author="zhangtian1000@gmail.com"
+   url="https://harvardhkustvlc.googlecode.com/svn/trunk/harvardhkustvlc/Flashkey/src/com/example/flashkey"
+   committed-rev="4"
+   kind="dir"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name="AboutUsActivity.java"
+   checksum="17dde022e22f64fd1e467242e0238cf4"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-24T18:26:25.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name="AddKeyActivity.java"
+   checksum="8e7e1d204ab3d1984c12eb95cd592cce"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-24T19:12:48.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name="ClearableEditText.java"
+   checksum="471a75778a355d60786f4109b99b6748"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-18T03:53:10.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name="CustomList.java"
+   checksum="761f4051f646e3b2fda580445fc97c2c"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-23T05:05:41.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name="CustomListKeyContact.java"
+   checksum="8781673851ba65b75feadd0134f3b728"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-23T05:05:33.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name="DatabaseConstants.java"
+   checksum="ecd42ec111c41cc4d64e02f4af36542d"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-23T18:21:12.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name="DatabaseHelper.java"
+   checksum="f842d52378b28918e3a74b3e69b8969d"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-23T04:38:30.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name="EditKeyActivity.java"
+   checksum="f0a8870e8c78d91a99d53b6fe8449792"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-23T05:21:45.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name="HelperActivity.java"
+   checksum="267e6f47cb1ebf3c3c19ab150829081a"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-23T21:28:25.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name="HighSecurityLevel.java"
+   checksum="930d36d75de1a00c47f5a90614069e24"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-28T19:10:18.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name="KeyDetail.java"
+   checksum="3a36db4b88576f8497ea0e095b42a11b"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-22T16:04:18.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name="KeyListFragment.java"
+   checksum="d0b8cc6bc6f3b62343151886e0e91ddc"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-25T20:40:58.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name="MainActivity.java"
+   checksum="ca69bf56db15b6985a22a512e10610e6"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-28T19:04:28.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name="PrefSetting.java"
+   checksum="71101fdabc5acdbf74a770f163ddd080"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-18T02:09:01.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name="SetPreferenceSettingActivity.java"
+   checksum="d934e98b3cde5b94b3d7ccfd6972f260"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-18T02:09:17.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name="SipHash_2_4.java"
+   checksum="8dda50b40678ab34fc1a2a2db8ea3e5d"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-15T16:18:23.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name="SwipeDismissListViewTouchListener.java"
+   checksum="57781e5c2d509055d076193a71c39b59"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-23T16:13:24.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name="TorchKey.java"
+   checksum="7c7304272e8ceac4ad740d1c77e307b5"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-25T20:27:13.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name="UndoBarController.java"
+   checksum="6e65ef7304885150f32c347aadac0d5c"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-23T15:58:33.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name="UndoItem.java"
+   checksum="a27b5f4a54cb2312fd0455f5ce9f0247"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-23T15:57:15.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+</wc-entries>

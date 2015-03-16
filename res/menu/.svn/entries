@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://harvardhkustvlc.googlecode.com/svn"
+   revision="4"
+   last-author="zhangtian1000@gmail.com"
+   url="https://harvardhkustvlc.googlecode.com/svn/trunk/harvardhkustvlc/Flashkey/res/menu"
+   committed-rev="4"
+   kind="dir"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name=".DS_Store"
+   checksum="eaaf1b3098fb65e294a48b917d2e096b"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-08T02:14:16.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"
+   prop-time="2014-09-30T02:08:31.000000Z"/>
+<entry
+   name="key_option.xml"
+   checksum="21bffe8e82677848407ca47cda48e59e"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-18T13:02:44.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name="main.xml"
+   checksum="8e12b511b90c2883c23fd9288f6db13b"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-22T16:32:36.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+</wc-entries>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://harvardhkustvlc.googlecode.com/svn"
+   name=""
+   revision="4"
+   last-author="zhangtian1000@gmail.com"
+   url="https://harvardhkustvlc.googlecode.com/svn/trunk/harvardhkustvlc/Flashkey/res/drawable-hdpi"
+   committed-rev="4"
+   kind="dir"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name=".DS_Store"
+   checksum="5e6811d21de6f19826e0ea89548c29b3"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-08T02:09:16.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"
+   prop-time="2014-09-30T02:08:29.000000Z"/>
+<entry
+   name="ic_action_new.png"
+   checksum="fddc0b66fd45dc5f168f67511e9f6ebb"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2013-12-03T23:39:20.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"
+   prop-time="2014-09-30T02:08:32.000000Z"/>
+<entry
+   name="ic_action_overflow.png"
+   checksum="532b470bd661dafef1158a5e5e83e6f7"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2013-12-03T23:39:22.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"
+   prop-time="2014-09-30T02:08:30.000000Z"/>
+<entry
+   name="ic_launcher.png"
+   checksum="d0cec7c8cda5327b8a17b8980bcc88eb"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-08T00:40:18.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"
+   prop-time="2014-09-30T02:08:32.000000Z"/>
+</wc-entries>

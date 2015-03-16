@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://harvardhkustvlc.googlecode.com/svn"
+   revision="4"
+   last-author="zhangtian1000@gmail.com"
+   url="https://harvardhkustvlc.googlecode.com/svn/trunk/harvardhkustvlc/Flashkey/bin/dexedLibs"
+   committed-rev="4"
+   kind="dir"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name="android-support-v4-465ff0a4cf378bd469b911a5b1447485.jar"
+   checksum="9efb5e461bec4f7b1f60c3db7a9060a2"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-23T20:49:37.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"
+   prop-time="2014-09-30T02:08:32.000000Z"/>
+</wc-entries>

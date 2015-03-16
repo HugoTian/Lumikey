@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center"
+    android:orientation="vertical"  >
+
+<GridLayout
+    android:id="@+id/passwordLayout"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    
+    android:layout_marginTop="30dp"
+    android:columnCount="4"
+    android:orientation="horizontal" >
+
+    <EditText 
+        android:id="@+id/firstInput"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:gravity = "center"
+        android:background="@color/black"
+        android:inputType = "number"
+        android:textSize="18sp"
+        android:textColor="@color/white"
+        android:maxLength="1"/>
+    <EditText 
+        android:id="@+id/secondInput"
+        android:background="@color/black"
+        android:textSize="18sp"
+        android:textColor="@color/white"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:gravity = "center"
+        android:inputType = "number"
+        android:maxLength="1"
+        android:layout_marginLeft="8dp"/>
+    <EditText 
+        android:id="@+id/thirdInput"
+        android:background="@color/black"
+        android:textSize="18sp"
+        android:textColor="@color/white"
+        android:gravity = "center"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:inputType = "number"
+        android:maxLength="1"
+        android:layout_marginLeft="8dp"/>
+    <EditText 
+        android:id="@+id/fourtInput"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:gravity = "center"
+        android:background="@color/black"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:inputType = "number"
+        android:layout_marginLeft="8dp"
+        android:maxLength="1"/>
+        
+    
+   
+ </GridLayout>
+ <TextView
+   	        android:layout_width="fill_parent"
+   	        android:layout_height="50dp" />
+
+<GridLayout 
+    android:id ="@+id/keyboard"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    
+    android:columnCount="3"
+    android:orientation="horizontal"
+    android:layout_below="@+id/passwordLayout" >
+   
+    <ImageButton android:id="@+id/ic_1"
+                 android:src="@drawable/ic_1" 
+                 android:layout_height="50dp"
+                 android:layout_width="50dp"
+                 android:gravity="center"
+                 android:scaleType="fitCenter"
+                 
+                 android:background="@color/holo_light"  />
+     <ImageButton android:id="@+id/ic_2"
+                 android:src="@drawable/ic_2" 
+                 android:gravity="center"
+                 android:scaleType="fitCenter"
+                 android:layout_height="50dp"
+                 android:layout_width="50dp"
+                 android:layout_marginLeft="15dp"
+                 android:background="@color/holo_light"  />
+      <ImageButton android:id="@+id/ic_3"
+                 android:src="@drawable/ic_3" 
+                 android:gravity="center"
+                 android:scaleType="fitCenter"
+                 android:layout_height="50dp"
+                 android:layout_marginLeft="15dp"
+                 android:layout_width="50dp"
+                 android:background="@color/holo_light"  />
+       <ImageButton android:id="@+id/ic_4"
+                 android:src="@drawable/ic_4" 
+                 android:layout_marginTop="10dp"
+                 android:gravity="center"
+                 android:scaleType="fitCenter"
+                 android:layout_height="50dp"
+                 android:layout_width="50dp"
+                 android:background="@color/holo_light"  />
+        <ImageButton android:id="@+id/ic_5"
+                 android:src="@drawable/ic_5" 
+                 android:layout_marginLeft="15dp"
+                 android:layout_marginTop="10dp"
+                 android:gravity="center"
+                 android:scaleType="fitCenter"
+                 android:layout_height="50dp"
+                 android:layout_width="50dp"
+                 android:background="@color/holo_light"  />
+         <ImageButton android:id="@+id/ic_6"
+                 android:src="@drawable/ic_6" 
+                 android:gravity="center"
+                 android:layout_marginLeft="15dp"
+                 android:layout_marginTop="10dp"
+                 android:scaleType="fitCenter"
+                android:layout_height="50dp"
+                 android:layout_width="50dp"
+                 android:background="@color/holo_light"  />
+          <ImageButton android:id="@+id/ic_7"
+                 android:src="@drawable/ic_7" 
+                 android:gravity="center"
+                 android:scaleType="fitCenter"
+                 android:layout_marginTop="10dp"
+                 android:layout_height="50dp"
+                 android:layout_width="50dp"
+                 android:background="@color/holo_light"  />
+           <ImageButton android:id="@+id/ic_8"
+                 android:src="@drawable/ic_8" 
+                 android:gravity="center"
+                 android:scaleType="fitCenter"
+                 
+                 android:layout_height="50dp"
+                 android:layout_marginTop="10dp"
+                 android:layout_marginLeft="15dp"
+                 android:layout_width="50dp"
+                 android:background="@color/holo_light"  />
+            <ImageButton android:id="@+id/ic_9"
+                 android:src="@drawable/ic_9" 
+                 android:gravity="center"
+                 android:scaleType="fitCenter"
+                android:layout_height="50dp"
+                android:layout_marginTop="10dp"
+                 android:layout_width="50dp"
+                 android:layout_marginLeft="15dp"
+                 android:background="@color/holo_light"  />
+             <ImageButton android:id="@+id/delete"
+                 android:src="@drawable/ic_backspace" 
+                 android:gravity="center"
+                 android:scaleType="fitCenter"
+                 android:layout_marginTop="10dp"
+                android:layout_height="50dp"
+                 android:layout_width="50dp"
+                 android:background="@color/holo_light"  />
+              <ImageButton android:id="@+id/ic_0"
+                 android:src="@drawable/ic_0" 
+                 android:gravity="center"
+                 android:layout_marginLeft="15dp"
+                 android:layout_marginTop="10dp"
+                 android:scaleType="fitCenter"
+                android:layout_height="50dp"
+                 android:layout_width="50dp"
+                 android:background="@color/holo_light"  />
+               <ImageButton android:id="@+id/ok"
+                 android:src="@drawable/ic_ok" 
+                 android:layout_marginTop="10dp"
+                 android:gravity="center"
+                 android:scaleType="fitCenter"
+                 android:layout_marginLeft="15dp"
+                 android:layout_height="50dp"
+                 android:layout_width="50dp"
+                 android:background="@color/holo_light"  />
+    
+ 
+
+
+</GridLayout>
+</LinearLayout>

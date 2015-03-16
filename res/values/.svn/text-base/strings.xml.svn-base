@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LumiKey</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_add">add</string>
+    <string name="action_setting">setting</string>
+    <string name="country_prompt">Please choose a type</string>
+ 
+    
+    <string-array name="action_arrays">
+        <item>Profile</item>
+        <item>Setting</item>
+    </string-array>
+    
+    <string-array name="encryption_type">
+        
+        <item>Low</item>
+        <item>High</item>
+        
+    </string-array>
+    <string-array name="key_type">
+        
+        <item>Home</item>
+        <item>Office</item>
+        <item>Car</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="listvalues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array> 
+    
+    <string name="sliding_pane_titleClosed">Sliding pane closed</string>
+    <string name="sliding_pane_titleOpened">Sliding pane opened</string>
+    
+    <string name="undobar_sample_message">Action performed.</string>
+    <string name="undo">Undo</string>
+
+    <plurals name="items">
+        <item quantity="one">1 item removed</item>
+        <item quantity="other">%d items removed</item>
+    </plurals>
+</resources>

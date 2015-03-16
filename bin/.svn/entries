@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://harvardhkustvlc.googlecode.com/svn"
+   name=""
+   revision="4"
+   last-author="zhangtian1000@gmail.com"
+   url="https://harvardhkustvlc.googlecode.com/svn/trunk/harvardhkustvlc/Flashkey/bin"
+   committed-rev="4"
+   kind="dir"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name="AndroidManifest.xml"
+   checksum="ed3e4ce1412ad8ea918b5a6740486d41"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-23T21:32:09.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name="Flashkey.apk"
+   checksum="d14b09c498880ed455654e4ed2c8559b"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-29T15:42:59.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"
+   prop-time="2014-09-30T02:08:33.000000Z"/>
+<entry
+   name="classes"
+   kind="dir"/>
+<entry
+   name="classes.dex"
+   checksum="260ed202d8cf0675e702bcd41f1ba25e"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-29T15:42:59.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"
+   prop-time="2014-09-30T02:08:33.000000Z"/>
+<entry
+   name="dexedLibs"
+   kind="dir"/>
+<entry
+   name="jarlist.cache"
+   checksum="1a4e54903cfe5b5bf05e60ce40d06671"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-09-30T01:32:31.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name="res"
+   kind="dir"/>
+<entry
+   name="resources.ap_"
+   checksum="fa712a23c6bfe1845ae9aea66a75f0cb"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-29T15:42:57.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"
+   prop-time="2014-09-30T02:08:30.000000Z"/>
+</wc-entries>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout	xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal" >  		
+    	<RadioGroup
+        	android:layout_width="fill_parent"
+        	android:layout_height="fill_parent"
+        	android:layout_gravity="bottom"
+        	android:gravity="center_vertical"
+        	android:background = "@color/holo_light"
+        	android:textColor = "@color/black"
+        	android:orientation="horizontal" >
+    		<Button
+   	            android:id="@+id/cancel_add"
+   	            
+   	            android:gravity="center"
+   	            android:paddingLeft="20dp"
+   	            android:paddingRight="20dp"
+   	            android:textColor = "@color/black"
+		        android:drawableLeft="@drawable/cancel_button"
+		        android:background = "@color/holo_light"
+   	            android:text="CANCEL"
+   	            android:textSize="20sp"
+   	            android:textStyle="bold" />
+    		<View
+    		    android:layout_width="2dp"
+		    	android:layout_height="fill_parent"
+		    	android:background="@color/gray"/>
+
+   	        <Button
+   	            android:id="@+id/confirm_add"
+   	         	
+   	         	android:paddingLeft="20dp"
+   	         	android:paddingRight="20dp"
+   	         	android:gravity="center"
+		        android:drawableLeft="@drawable/ok_button"
+		        android:background = "@color/holo_light"
+   	            android:text="CONFIRM"
+   	            android:textColor = "@color/black"
+   	            android:textSize="20sp"
+   	            android:textStyle="bold"  />
+   	    </RadioGroup>
+    
+</RelativeLayout>

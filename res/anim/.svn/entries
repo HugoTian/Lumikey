@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://harvardhkustvlc.googlecode.com/svn"
+   revision="4"
+   last-author="zhangtian1000@gmail.com"
+   url="https://harvardhkustvlc.googlecode.com/svn/trunk/harvardhkustvlc/Flashkey/res/anim"
+   committed-rev="4"
+   kind="dir"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name=".DS_Store"
+   checksum="54320b8c45c4e670e17f13d7a924e2b5"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-07T21:12:46.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"
+   prop-time="2014-09-30T02:08:31.000000Z"/>
+<entry
+   name="down_in.xml"
+   checksum="75c36076b2c34ed09b7624ca4b48e07b"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-04-22T15:41:23.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name="down_out.xml"
+   checksum="4e774c0db2ef396d728af406f614ce88"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-04-25T14:50:40.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name="left_in.xml"
+   checksum="7418c89ac2838834b2996b13f37d1f02"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-23T20:14:57.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name="left_out.xml"
+   checksum="ab6684f0658b032bddf17ed5575fbbd6"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-23T20:15:01.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name="right_in.xml"
+   checksum="98d6409cfbe446ea746b3198ee2e432d"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-23T20:15:06.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name="right_out.xml"
+   checksum="3f31b6ea4f6c3ec0f30d6891bb68228f"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-07-23T20:15:10.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name="up_in.xml"
+   checksum="0978f6fc0529683578e3b062a3934460"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-04-25T14:50:40.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+<entry
+   name="up_out.xml"
+   checksum="4f981a322913df024352236d9c7f8bcb"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-04-22T15:41:23.000000Z"
+   committed-rev="4"
+   kind="file"
+   committed-date="2014-09-30T02:08:39.171000Z"/>
+</wc-entries>
